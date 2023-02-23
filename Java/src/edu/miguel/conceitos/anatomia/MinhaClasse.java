@@ -1,4 +1,4 @@
-package edu.miguel.anatomia;
+package edu.miguel.conceitos.anatomia;
 
 public class MinhaClasse {
 
